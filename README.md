@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Computer Science** and **Cybersecurity** student
 
-Currently taking part to the **Cyber HackAdemy Federico II**
+Currently taking part in the **Cyber HackAdemy Federico II**
 
 About Me:
 
