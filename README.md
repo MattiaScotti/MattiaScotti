@@ -12,6 +12,7 @@ Beyond my technical skills, I am a strong communicator and thrive in collaborati
 
 🔧 **What I Do:**
 - Write code in languages like Python, Java, and C
+- Containerization and Cloud Deployment
 - Delve deep into the world of Cybersecurity, ethical hacking, vulnerability assessments, and penetration testing
 - Explore new technologies and frameworks
 
